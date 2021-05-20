@@ -1,2 +1,3 @@
-# oidc-cache-memory
-memory cache
+# oidc-session-memory
+
+memory session
