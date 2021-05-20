@@ -1,0 +1,22 @@
+{
+    "name": "oidc-session-memory-dev",
+    "dockerComposeFile": [
+        "../docker-compose.yaml",
+    ],
+    "service": "oidc-session-memory-dev",
+    "workspaceFolder": "/src",
+    "settings": {
+        "terminal.integrated.shell.linux": "/bin/bash"
+    },
+    "extensions": [
+        "golang.Go",
+        "yokoe.vscode-postfix-go",
+        "yzhang.markdown-all-in-one",
+        "davidanson.vscode-markdownlint",
+        "ms-azuretools.vscode-docker",
+        "eamodio.gitlens",
+        "mhutchie.git-graph",
+        "christian-kohler.path-intellisense",
+        "streetsidesoftware.code-spell-checker"
+    ]
+}
